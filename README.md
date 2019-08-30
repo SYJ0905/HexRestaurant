@@ -1,7 +1,7 @@
 # HexRestaurant
 
 ## Demo
-https://yangjiesu.github.io/HexRestaurant/
+https://syj0905.github.io/HexRestaurant/
 
 ## Intro
   * 不依賴 css Framework ， 純手刻 RWD 響應式網頁 
